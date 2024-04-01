@@ -6,3 +6,9 @@
     background-color: blueviolet;
     color: pointer;
 }
+
+#resultado{
+    font-size: 25px;
+    color:gold;
+    margin-left: 50px;
+}
